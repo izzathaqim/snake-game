@@ -1,9 +1,7 @@
 **SNAKE GAME**
 
-This is one of the project from 100 Days of code - The Complete Python Pro Bootcamp For 2021
+This is one of the project from 100 Days of code - The Complete Python Pro Bootcamp For 2021 by Dr Angela Yu
 
-This project is completed on Day 20 and Day 21
+Completed on Day 20 and Day 21
 
-My code should be on my_answer branch and merge into master.
-
-Dr. Angela answer will be on dr_angela_answer branch.
+[Checkout her courses at Udemy](https://www.udemy.com/share/103IHM2@PkdjV2JKcFENe0RFBnF/fRRuSn1hYA==/)
