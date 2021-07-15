@@ -13,7 +13,14 @@ screen.title("Snake Games")
 screen.tracer(0)
 
 snake = snake.Snake()
-snake.control()
+
+screen = turtle.Screen()
+screen.listen()
+screen.onkey(key="Up", fun=snake.move_up)
+screen.onkey(key="Down", fun=snake.move_down)
+screen.onkey(key="Left", fun=snake.move_left)
+screen.onkey(key="Right", fun=snake.move_right)
+
 
 while game_is_on:
     screen.update()
